@@ -1,2 +1,0 @@
-# archivist
-:dvd: Archivist Projects.
